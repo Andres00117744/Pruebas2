@@ -19,8 +19,7 @@ public class ControlVersiones {
         System.out.println("Hola mundo");
         System.out.println("Hola");
         System.out.println("otra linea");
-        
-        int nueva=34444;
+        System.out.println("nueva");
         
     }
     
